@@ -1,0 +1,30 @@
+remote changes
+------------------
+git remote -v  / to check the central repo.
+git remote add origin <github-url>   /to add the remote repo.
+
+
+git push  
+----------
+it is an action to copy the changes/files from local to remote repository.
+
+syn: git push origin master
+
+git pull
+-----------
+it is an action to copy the changes from remote to local.
+
+syn: git pull origin master
+
+git fetch
+---------------
+it is an action to bring info. about changes from remote to local repo.
+
+
+syn: git fetch
+br
+git clone
+-------------
+to copy the entire remote repo to local
+
+syn: git clone <github-url>
