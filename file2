@@ -1,0 +1,25 @@
+configuration 
+-----------------
+
+git config --global user.name "username"
+
+git config --global user.email "useremail-ID"
+
+git config --list   / to check configuration.
+
+
+
+starting a Project
+-----------------------------
+
+create a directory
+
+mkdir git-tutorial
+
+go inside the dir
+syn: cd git-tutorial
+
+
+run the command to initialize your git
+
+syn: git init
